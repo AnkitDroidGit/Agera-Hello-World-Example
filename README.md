@@ -2,9 +2,9 @@
 
 Hello World Example using Agera
 
-More sample are [Here](https://github.com/AnkitDroidGit/Agera-Android-Sample/).
+[More sample are Here](https://github.com/AnkitDroidGit/Agera-Android-Sample/).
 
-This [Link](https://github.com/AnkitDroidGit/Agera-Android-Sample/blob/master/README.md) can be seen for more documents/tutorials.
+[This Link](https://github.com/AnkitDroidGit/Agera-Android-Sample/blob/master/README.md) can be seen for more documents/tutorials.
 
 ## let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
@@ -12,6 +12,7 @@ This [Link](https://github.com/AnkitDroidGit/Agera-Android-Sample/blob/master/RE
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
 - [Facebook](https://www.facebook.com/freeankit)
 - [Slack](https://ankitdroid.slack.com)
+
 
 ### License
 
